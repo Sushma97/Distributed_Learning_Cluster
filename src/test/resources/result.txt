@@ -1,0 +1,187 @@
+[{'chap01': 'A scandal in bohemia', 'content': ['To Sherlock Holmes she is always the woman. I have seldom heard him
+mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt
+any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but
+admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but
+as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a
+sneer. They were admirable things for the observer—excellent for drawing the veil from men’s motives and actions. But for
+the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a
+distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in
+one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet
+there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory.', 'I had seen
+little of Holmes lately. My marriage had drifted us away from each other. My own complete happiness, and the home-centred
+interests which rise up around the man who first finds himself master of his own establishment, were sufficient to absorb
+all my attention, while Holmes, who loathed every form of society with his whole Bohemian soul, remained in our lodgings
+in Baker Street, buried among his old books, and alternating from week to week between cocaine and ambition, the
+drowsiness of the drug, and the fierce energy of his own keen nature. He was still, as ever, deeply attracted by the study
+of crime, and occupied his immense faculties and extraordinary powers of observation in following out those clues, and
+clearing up those mysteries which had been abandoned as hopeless by the official police. From time to time I heard some
+vague account of his doings: of his summons to Odessa in the case of the Trepoff murder, of his clearing up of the
+singular tragedy of the Atkinson brothers at Trincomalee, and finally of the mission which he had accomplished so
+delicately and successfully for the reigning family of Holland. Beyond these signs of his activity, however, which I
+merely shared with all the readers of the daily press, I knew little of my former friend and companion.', 'One night—it
+was on the twentieth of March, 1888—I was returning from a journey to a patient (for I had now returned to civil
+practice), when my way led me through Baker Street. As I passed the well-remembered door, which must always be associated
+in my mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized with a keen desire to see
+Holmes again, and to know how he was employing his extraordinary powers. His rooms were brilliantly lit, and, even as I
+looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind. He was pacing the room swiftly,
+eagerly, with his head sunk upon his chest and his hands clasped behind him. To me, who knew his every mood and habit, his
+attitude and manner told their own story. He was at work again. He had risen out of his drug-created dreams and was hot
+upon the scent of some new problem. I rang the bell and was shown up to the chamber which had formerly been in part my own
+', 'His manner was not effusive. It seldom was; but he was glad, I think, to see me. With hardly a word spoken, but with a
+kindly eye, he waved me to an armchair, threw across his case of cigars, and indicated a spirit case and a gasogene in the
+corner. Then he stood before the fire and looked me over in his singular introspective fashion.']}, {'chap02': 'The
+red-headed league', 'content': ['I had called upon my friend, Mr. Sherlock Holmes, one day in the autumn of last year and
+found him in deep conversation with a very stout, florid-faced, elderly gentleman with fiery red hair. With an apology for
+my intrusion, I was about to withdraw when Holmes pulled me abruptly into the room and closed the door behind me.', '“You
+could not possibly have come at a better time, my dear Watson,” he said cordially.', '“I was afraid that you were engaged.
+', '“So I am. Very much so.”']}, {'chap03': 'A case of identity', 'content': ['“My dear fellow,” said Sherlock Holmes as
+we sat on either side of the fire in his lodgings at Baker Street, “life is infinitely stranger than anything which the
+mind of man could invent. We would not dare to conceive the things which are really mere commonplaces of existence. If we
+could fly out of that window hand in hand, hover over this great city, gently remove the roofs, and peep in at the queer
+things which are going on, the strange coincidences, the plannings, the cross-purposes, the wonderful chains of events,
+working through generations, and leading to the most outrÃ© results, it would make all fiction with its conventionalities
+and foreseen conclusions most stale and unprofitable.”', '“And yet I am not convinced of it,” I answered. “The cases which
+come to light in the papers are, as a rule, bald enough, and vulgar enough. We have in our police reports realism pushed
+to its extreme limits, and yet the result is, it must be confessed, neither fascinating nor artistic.”', '“A certain
+selection and discretion must be used in producing a realistic effect,” remarked Holmes. “This is wanting in the police
+report, where more stress is laid, perhaps, upon the platitudes of the magistrate than upon the details, which to an
+observer contain the vital essence of the whole matter. Depend upon it, there is nothing so unnatural as the commonplace.
+', 'I smiled and shook my head. “I can quite understand your thinking so,” I said. “Of course, in your position of
+unofficial adviser and helper to everybody who is absolutely puzzled, throughout three continents, you are brought in
+contact with all that is strange and bizarre. But here”—I picked up the morning paper from the ground—“let us put it to a
+practical test. Here is the first heading upon which I come. ‘A husband’s cruelty to his wife.’ There is half a column of
+print, but I know without reading it that it is all perfectly familiar to me. There is, of course, the other woman, the
+drink, the push, the blow, the bruise, the sympathetic sister or landlady. The crudest of writers could invent nothing
+more crude.”']}, {'chap04': 'The boscombe valley mystery', 'content': ['We were seated at breakfast one morning, my wife
+and I, when the maid brought in a telegram. It was from Sherlock Holmes and ran in this way:', '“Have you a couple of days
+to spare? Have just been wired for from the west of England in connection with Boscombe Valley tragedy. Shall be glad if
+you will come with me. Air and scenery perfect. Leave Paddington by the 11:15.”', '“What do you say, dear?” said my wife,
+looking across at me. “Will you go?”', '“I really don’t know what to say. I have a fairly long list at present.”']},
+{'chap05': 'The five orange pips', 'content': ['When I glance over my notes and records of the Sherlock Holmes cases
+between the years ’82 and ’90, I am faced by so many which present strange and interesting features that it is no easy
+matter to know which to choose and which to leave. Some, however, have already gained publicity through the papers, and
+others have not offered a field for those peculiar qualities which my friend possessed in so high a degree, and which it
+is the object of these papers to illustrate. Some, too, have baffled his analytical skill, and would be, as narratives,
+beginnings without an ending, while others have been but partially cleared up, and have their explanations founded rather
+upon conjecture and surmise than on that absolute logical proof which was so dear to him. There is, however, one of these
+last which was so remarkable in its details and so startling in its results that I am tempted to give some account of it
+in spite of the fact that there are points in connection with it which never have been, and probably never will be,
+entirely cleared up.', 'The year ’87 furnished us with a long series of cases of greater or less interest, of which I
+retain the records. Among my headings under this one twelve months I find an account of the adventure of the Paradol
+Chamber, of the Amateur Mendicant Society, who held a luxurious club in the lower vault of a furniture warehouse, of the
+facts connected with the loss of the British barque Sophy Anderson, of the singular adventures of the Grice Patersons in
+the island of Uffa, and finally of the Camberwell poisoning case. In the latter, as may be remembered, Sherlock Holmes was
+able, by winding up the dead man’s watch, to prove that it had been wound up two hours before, and that therefore the
+deceased had gone to bed within that time—a deduction which was of the greatest importance in clearing up the case. All
+these I may sketch out at some future date, but none of them present such singular features as the strange train of
+circumstances which I have now taken up my pen to describe.', 'It was in the latter days of September, and the equinoctial
+gales had set in with exceptional violence. All day the wind had screamed and the rain had beaten against the windows, so
+that even here in the heart of great, hand-made London we were forced to raise our minds for the instant from the routine
+of life and to recognise the presence of those great elemental forces which shriek at mankind through the bars of his
+civilisation, like untamed beasts in a cage. As evening drew in, the storm grew higher and louder, and the wind cried and
+sobbed like a child in the chimney. Sherlock Holmes sat moodily at one side of the fireplace cross-indexing his records of
+crime, while I at the other was deep in one of Clark Russell’s fine sea-stories until the howl of the gale from without
+seemed to blend with the text, and the splash of the rain to lengthen out into the long swash of the sea waves. My wife
+was on a visit to her mother’s, and for a few days I was a dweller once more in my old quarters at Baker Street.', '“Why,”
+said I, glancing up at my companion, “that was surely the bell. Who could come to-night? Some friend of yours, perhaps?
+']}, {'chap06': 'The man with the twisted lip', 'content': ['Isa Whitney, brother of the late Elias Whitney, D.D.,
+Principal of the Theological College of St. George’s, was much addicted to opium. The habit grew upon him, as I
+understand, from some foolish freak when he was at college; for having read De Quincey’s description of his dreams and
+sensations, he had drenched his tobacco with laudanum in an attempt to produce the same effects. He found, as so many more
+have done, that the practice is easier to attain than to get rid of, and for many years he continued to be a slave to the
+drug, an object of mingled horror and pity to his friends and relatives. I can see him now, with yellow, pasty face,
+drooping lids, and pin-point pupils, all huddled in a chair, the wreck and ruin of a noble man.', 'One night—it was in
+June, ’89—there came a ring to my bell, about the hour when a man gives his first yawn and glances at the clock. I sat up
+in my chair, and my wife laid her needle-work down in her lap and made a little face of disappointment.', '“A patient!”
+said she. “You’ll have to go out.”', 'I groaned, for I was newly come back from a weary day.']}, {'chap07': 'The adventure
+of the blue carbuncle', 'content': ['I had called upon my friend Sherlock Holmes upon the second morning after Christmas,
+with the intention of wishing him the compliments of the season. He was lounging upon the sofa in a purple dressing-gown,
+a pipe-rack within his reach upon the right, and a pile of crumpled morning papers, evidently newly studied, near at hand.
+Beside the couch was a wooden chair, and on the angle of the back hung a very seedy and disreputable hard-felt hat, much
+the worse for wear, and cracked in several places. A lens and a forceps lying upon the seat of the chair suggested that
+the hat had been suspended in this manner for the purpose of examination.', '“You are engaged,” said I; “perhaps I
+interrupt you.”', '“Not at all. I am glad to have a friend with whom I can discuss my results. The matter is a perfectly
+trivial one”—he jerked his thumb in the direction of the old hat—“but there are points in connection with it which are not
+entirely devoid of interest and even of instruction.”', 'I seated myself in his armchair and warmed my hands before his
+crackling fire, for a sharp frost had set in, and the windows were thick with the ice crystals. “I suppose,” I remarked,
+“that, homely as it looks, this thing has some deadly story linked on to it—that it is the clue which will guide you in
+the solution of some mystery and the punishment of some crime.”']}, {'chap08': 'The adventure of the speckled band',
+'content': ['On glancing over my notes of the seventy odd cases in which I have during the last eight years studied the
+methods of my friend Sherlock Holmes, I find many tragic, some comic, a large number merely strange, but none commonplace;
+for, working as he did rather for the love of his art than for the acquirement of wealth, he refused to associate himself
+with any investigation which did not tend towards the unusual, and even the fantastic. Of all these varied cases, however,
+I cannot recall any which presented more singular features than that which was associated with the well-known Surrey
+family of the Roylotts of Stoke Moran. The events in question occurred in the early days of my association with Holmes,
+when we were sharing rooms as bachelors in Baker Street. It is possible that I might have placed them upon record before,
+but a promise of secrecy was made at the time, from which I have only been freed during the last month by the untimely
+death of the lady to whom the pledge was given. It is perhaps as well that the facts should now come to light, for I have
+reasons to know that there are widespread rumours as to the death of Dr. Grimesby Roylott which tend to make the matter
+even more terrible than the truth.', 'It was early in April in the year ’83 that I woke one morning to find Sherlock
+Holmes standing, fully dressed, by the side of my bed. He was a late riser, as a rule, and as the clock on the mantelpiece
+showed me that it was only a quarter-past seven, I blinked up at him in some surprise, and perhaps just a little
+resentment, for I was myself regular in my habits.', '“Very sorry to knock you up, Watson,” said he, “but it’s the common
+lot this morning. Mrs. Hudson has been knocked up, she retorted upon me, and I on you.”', '“What is it, then—a fire?”']},
+{'chap09': 'The adventure of the engineer’s thumb', 'content': ['Of all the problems which have been submitted to my
+friend, Mr. Sherlock Holmes, for solution during the years of our intimacy, there were only two which I was the means of
+introducing to his notice—that of Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of these the latter may
+have afforded a finer field for an acute and original observer, but the other was so strange in its inception and so
+dramatic in its details that it may be the more worthy of being placed upon record, even if it gave my friend fewer
+openings for those deductive methods of reasoning by which he achieved such remarkable results. The story has, I believe,
+been told more than once in the newspapers, but, like all such narratives, its effect is much less striking when set forth
+en bloc in a single half-column of print than when the facts slowly evolve before your own eyes, and the mystery clears
+gradually away as each new discovery furnishes a step which leads on to the complete truth. At the time the circumstances
+made a deep impression upon me, and the lapse of two years has hardly served to weaken the effect.', 'It was in the summer
+of ’89, not long after my marriage, that the events occurred which I am now about to summarise. I had returned to civil
+practice and had finally abandoned Holmes in his Baker Street rooms, although I continually visited him and occasionally
+even persuaded him to forgo his Bohemian habits so far as to come and visit us. My practice had steadily increased, and as
+I happened to live at no very great distance from Paddington Station, I got a few patients from among the officials. One
+of these, whom I had cured of a painful and lingering disease, was never weary of advertising my virtues and of
+endeavouring to send me on every sufferer over whom he might have any influence.', 'One morning, at a little before seven
+o’clock, I was awakened by the maid tapping at the door to announce that two men had come from Paddington and were waiting
+in the consulting-room. I dressed hurriedly, for I knew by experience that railway cases were seldom trivial, and hastened
+downstairs. As I descended, my old ally, the guard, came out of the room and closed the door tightly behind him.', '“I’ve
+got him here,” he whispered, jerking his thumb over his shoulder; “he’s all right.”']}, {'chap10': 'The adventure of the
+noble bachelor', 'content': ['The Lord St. Simon marriage, and its curious termination, have long ceased to be a subject
+of interest in those exalted circles in which the unfortunate bridegroom moves. Fresh scandals have eclipsed it, and their
+more piquant details have drawn the gossips away from this four-year-old drama. As I have reason to believe, however, that
+the full facts have never been revealed to the general public, and as my friend Sherlock Holmes had a considerable share
+in clearing the matter up, I feel that no memoir of him would be complete without some little sketch of this remarkable
+episode.', 'It was a few weeks before my own marriage, during the days when I was still sharing rooms with Holmes in Baker
+Street, that he came home from an afternoon stroll to find a letter on the table waiting for him. I had remained indoors
+all day, for the weather had taken a sudden turn to rain, with high autumnal winds, and the jezail bullet which I had
+brought back in one of my limbs as a relic of my Afghan campaign throbbed with dull persistence. With my body in one
+easy-chair and my legs upon another, I had surrounded myself with a cloud of newspapers until at last, saturated with the
+news of the day, I tossed them all aside and lay listless, watching the huge crest and monogram upon the envelope upon the
+table and wondering lazily who my friend’s noble correspondent could be.', '“Here is a very fashionable epistle,” I
+remarked as he entered. “Your morning letters, if I remember right, were from a fish-monger and a tide-waiter.”', '“Yes,
+my correspondence has certainly the charm of variety,” he answered, smiling, “and the humbler are usually the more
+interesting. This looks like one of those unwelcome social summonses which call upon a man either to be bored or to lie.
+']}, {'chap11': 'The adventure of the beryl coronet', 'content': ['“Holmes,” said I as I stood one morning in our
+bow-window looking down the street, “here is a madman coming along. It seems rather sad that his relatives should allow
+him to come out alone.”', 'My friend rose lazily from his armchair and stood with his hands in the pockets of his
+dressing-gown, looking over my shoulder. It was a bright, crisp February morning, and the snow of the day before still lay
+deep upon the ground, shimmering brightly in the wintry sun. Down the centre of Baker Street it had been ploughed into a
+brown crumbly band by the traffic, but at either side and on the heaped-up edges of the footpaths it still lay as white as
+when it fell. The grey pavement had been cleaned and scraped, but was still dangerously slippery, so that there were fewer
+passengers than usual. Indeed, from the direction of the Metropolitan Station no one was coming save the single gentleman
+whose eccentric conduct had drawn my attention.', 'He was a man of about fifty, tall, portly, and imposing, with a
+massive, strongly marked face and a commanding figure. He was dressed in a sombre yet rich style, in black frock-coat,
+shining hat, neat brown gaiters, and well-cut pearl-grey trousers. Yet his actions were in absurd contrast to the dignity
+of his dress and features, for he was running hard, with occasional little springs, such as a weary man gives who is
+little accustomed to set any tax upon his legs. As he ran he jerked his hands up and down, waggled his head, and writhed
+his face into the most extraordinary contortions.', '“What on earth can be the matter with him?” I asked. “He is looking
+up at the numbers of the houses.”']}, {'chap12': 'The adventure of the copper beeches', 'content': ['“To the man who loves
+art for its own sake,” remarked Sherlock Holmes, tossing aside the advertisement sheet of The Daily Telegraph, “it is
+frequently in its least important and lowliest manifestations that the keenest pleasure is to be derived. It is pleasant
+to me to observe, Watson, that you have so far grasped this truth that in these little records of our cases which you have
+been good enough to draw up, and, I am bound to say, occasionally to embellish, you have given prominence not so much to
+the many causes cÃ©lÃ¨bres and sensational trials in which I have figured but rather to those incidents which may have
+been trivial in themselves, but which have given room for those faculties of deduction and of logical synthesis which I
+have made my special province.”', '“And yet,” said I, smiling, “I cannot quite hold myself absolved from the charge of
+sensationalism which has been urged against my records.”', '“You have erred, perhaps,” he observed, taking up a glowing
+cinder with the tongs and lighting with it the long cherry-wood pipe which was wont to replace his clay when he was in a
+disputatious rather than a meditative mood—“you have erred perhaps in attempting to put colour and life into each of your
+statements instead of confining yourself to the task of placing upon record that severe reasoning from cause to effect
+which is really the only notable feature about the thing.”', '“It seems to me that I have done you full justice in the
+matter,” I remarked with some coldness, for I was repelled by the egotism which I had more than once observed to be a
+strong factor in my friend’s singular character.']}]

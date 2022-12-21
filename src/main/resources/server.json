@@ -1,0 +1,52 @@
+[
+  {
+    "ip" : "fa22-cs425-7001.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm1.log"
+  },
+  {
+    "ip" : "fa22-cs425-7002.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm2.log"
+  },
+  {
+    "ip" : "fa22-cs425-7003.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm3.log"
+  },
+  {
+    "ip" : "fa22-cs425-7004.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm4.log"
+  },
+  {
+    "ip" : "fa22-cs425-7005.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm5.log"
+  },
+  {
+    "ip" : "fa22-cs425-7006.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm6.log"
+  },
+  {
+    "ip" : "fa22-cs425-7007.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm7.log"
+  },
+  {
+    "ip" : "fa22-cs425-7008.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm8.log"
+  },
+  {
+    "ip" : "fa22-cs425-7009.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm9.log"
+  },
+  {
+    "ip" : "fa22-cs425-7010.cs.illinois.edu",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm10.log"
+  }
+]

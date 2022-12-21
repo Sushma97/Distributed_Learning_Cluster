@@ -1,0 +1,52 @@
+[
+  {
+    "ip" : "172.22.156.232",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm1.log"
+  },
+  {
+    "ip" : "172.22.158.232",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm2.log"
+  },
+  {
+    "ip" : "172.22.94.232",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm3.log"
+  },
+  {
+    "ip" : "172.22.156.233",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm4.log"
+  },
+  {
+    "ip" : "172.22.158.233",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm5.log"
+  },
+  {
+    "ip" : "172.22.94.233",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm6.log"
+  },
+  {
+    "ip" : "172.22.156.234",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm7.log"
+  },
+  {
+    "ip" : "172.22.158.234",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm8.log"
+  },
+  {
+    "ip" : "172.22.94.234",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm9.log"
+  },
+  {
+    "ip" : "172.22.156.235",
+    "port" : "9876",
+    "logFile" : "/srv/mp1_logs/vm10.log"
+  }
+]
